@@ -1,5 +1,5 @@
 # TIFC-V3.4: Emergent Thalamocortical Gating via PAC and Landauer Cost
-
+[![DOI](https://zenodo.org/badge/1398720283.svg)](https://doi.org/10.5281/zenodo.23070634)
 **Author:** Alejandro Vaquero Barriero (2026)
 **Affiliation:** Independent Researcher, Barcelona
 
@@ -13,4 +13,4 @@ The gating probability is: p_gate = 1 / (1 + exp((Cost - threshold)/kT))
 pip install numpy
 python tifc_v34.pyExpected output: MI ∼0.2-0.5, Cost ∼1e-20 J, p_gate < 1.0
 License: MIT
-DOI: (pending Zenodo integration)
+DOI: 10.5281/zenodo.23070634
